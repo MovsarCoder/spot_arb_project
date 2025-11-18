@@ -5,9 +5,9 @@ alembic:
 
 build:
 	git pull
-	docker compose down
-	docker compose up --build -d
-	docker compose logs -f bot
+	docker-compose down
+	docker-compose up --build -d
+	docker-compose logs -f bot
 up:
 	docker-compose up -d --build
 
