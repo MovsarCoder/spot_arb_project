@@ -10,9 +10,9 @@ from aiogram.types import BotCommandScopeAllPrivateChats
 
 from config.settings import BotToken
 from handlers import router
-from tg_bot.keyboard.default_keyboard import commands
-from tg_bot.middlewares.check_subscription_on_groups import SubscriptionMiddleware
-from tg_bot.middlewares.logging import ErrorMiddleware
+from keyboard.default_keyboard import commands
+from middlewares.check_subscription_on_groups import SubscriptionMiddleware
+from middlewares.logging import ErrorMiddleware
 
 logging.basicConfig(
     level=logging.INFO,
