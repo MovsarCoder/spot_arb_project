@@ -1,8 +1,8 @@
 """Коммит += 1
 
-Revision ID: a3af1aa00ad3
+Revision ID: 18f534e02f96
 Revises: 
-Create Date: 2025-11-16 02:28:24.532795
+Create Date: 2025-11-18 20:55:28.421089
 
 """
 from typing import Sequence, Union
@@ -12,7 +12,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision: str = 'a3af1aa00ad3'
+revision: str = '18f534e02f96'
 down_revision: Union[str, Sequence[str], None] = None
 branch_labels: Union[str, Sequence[str], None] = None
 depends_on: Union[str, Sequence[str], None] = None
@@ -39,7 +39,8 @@ def upgrade() -> None:
     sa.Column('referred_by_id', sa.String(length=36), nullable=True),
     sa.Column('has_purchased', sa.Boolean(), nullable=True),
     sa.ForeignKeyConstraint(['referred_by_id'], ['users.id'], ),
-    sa.PrimaryKeyConstraint('id')
+    sa.PrimaryKeyConstraint('id'),
+    sa.UniqueConstraint('username')
     )
     op.create_index(op.f('ix_users_telegram_id'), 'users', ['telegram_id'], unique=True)
     op.create_table('cooperation_requests',

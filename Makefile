@@ -1,4 +1,4 @@
-.PHONY: alembic, build, up, stop, env
+.PHONY: alembic build up stop env
 
 alembic:
 	alembic revision --autogenerate -m 'Коммит += 1' && alembic upgrade head

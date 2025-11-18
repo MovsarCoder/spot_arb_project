@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  bot:
+    build:
+      context: ./tg_bot
+      dockerfile: Dockerfile
+    container_name: spot_arb_p2p_bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - ./database:/app/database
+    command: python main.py
+
+
