@@ -1,0 +1,690 @@
+/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/bin/python /Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/main.py
+2025-11-18 11:52:56,518 - INFO - aiogram.dispatcher - Start polling
+2025-11-18 11:52:56,597 - INFO - aiogram.dispatcher - Run polling for bot @sulim_aiogram_bot id=8106811972 - 'Sulim bot aiogram'
+2025-11-18 11:53:02,153 - INFO - aiogram.event - Update id=282307646 is not handled. Duration 4 ms by bot id=8106811972
+2025-11-18 11:53:02,153 - INFO - aiogram.event - Update id=282307647 is not handled. Duration 4 ms by bot id=8106811972
+2025-11-18 11:53:03,524 - INFO - root - Администраторы получены!
+2025-11-18 11:53:03,524 - INFO - root - Администраторы получены!
+2025-11-18 11:53:03,528 - INFO - root - Пользователь с telegram_id=6155920970 уже существует.
+2025-11-18 11:53:03,528 - INFO - root - Пользователь с telegram_id=6155920970 уже существует.
+2025-11-18 11:53:03,528 - INFO - root - 👤 Пользователь 6155920970 уже существует.
+2025-11-18 11:53:03,529 - INFO - root - 👤 Пользователь 6155920970 уже существует.
+2025-11-18 11:53:03,796 - INFO - aiogram.event - Update id=282307648 is handled. Duration 280 ms by bot id=8106811972
+2025-11-18 11:53:03,820 - INFO - aiogram.event - Update id=282307649 is handled. Duration 304 ms by bot id=8106811972
+2025-11-18 11:53:06,104 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 11:53:06,104 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 11:53:06,251 - INFO - aiogram.event - Update id=282307650 is handled. Duration 159 ms by bot id=8106811972
+2025-11-18 11:53:06,265 - INFO - aiogram.event - Update id=282307651 is handled. Duration 173 ms by bot id=8106811972
+2025-11-18 11:53:31,723 - INFO - aiogram.event - Update id=282307652 is handled. Duration 440 ms by bot id=8106811972
+2025-11-18 11:53:31,854 - INFO - aiogram.event - Update id=282307653 is handled. Duration 570 ms by bot id=8106811972
+2025-11-18 11:53:58,820 - INFO - root - Администраторы получены!
+2025-11-18 11:53:58,820 - INFO - root - Администраторы получены!
+2025-11-18 11:54:02,802 - INFO - aiogram.event - Update id=282307654 is handled. Duration 3993 ms by bot id=8106811972
+2025-11-18 11:54:03,341 - INFO - aiogram.event - Update id=282307655 is handled. Duration 4532 ms by bot id=8106811972
+2025-11-18 11:56:07,338 - INFO - aiogram.event - Update id=282307656 is handled. Duration 4231 ms by bot id=8106811972
+2025-11-18 11:56:07,711 - INFO - aiogram.event - Update id=282307657 is handled. Duration 4602 ms by bot id=8106811972
+2025-11-18 11:57:38,861 - INFO - aiogram.event - Update id=282307658 is handled. Duration 4111 ms by bot id=8106811972
+2025-11-18 11:57:39,480 - INFO - aiogram.event - Update id=282307659 is handled. Duration 4729 ms by bot id=8106811972
+2025-11-18 11:58:37,788 - INFO - root - Администраторы получены!
+2025-11-18 11:58:37,788 - INFO - root - Администраторы получены!
+2025-11-18 11:58:37,796 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 11:58:37,796 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 11:58:37,940 - INFO - aiogram.event - Update id=282307661 is handled. Duration 159 ms by bot id=8106811972
+2025-11-18 11:58:38,089 - INFO - aiogram.event - Update id=282307660 is handled. Duration 308 ms by bot id=8106811972
+2025-11-18 12:01:10,448 - INFO - root - Администраторы получены!
+2025-11-18 12:01:10,449 - INFO - root - Администраторы получены!
+2025-11-18 12:01:10,455 - INFO - root - Пользователь с telegram_id=6155920970 уже существует.
+2025-11-18 12:01:10,455 - INFO - root - Пользователь с telegram_id=6155920970 уже существует.
+2025-11-18 12:01:10,456 - INFO - root - 👤 Пользователь 6155920970 уже существует.
+2025-11-18 12:01:10,457 - INFO - root - 👤 Пользователь 6155920970 уже существует.
+2025-11-18 12:01:10,580 - INFO - aiogram.event - Update id=282307663 is handled. Duration 155 ms by bot id=8106811972
+2025-11-18 12:01:10,728 - INFO - aiogram.event - Update id=282307662 is handled. Duration 303 ms by bot id=8106811972
+2025-11-18 12:01:11,509 - INFO - root - Администраторы получены!
+2025-11-18 12:01:11,509 - INFO - root - Администраторы получены!
+2025-11-18 12:01:11,515 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:01:11,515 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:01:11,629 - INFO - aiogram.event - Update id=282307664 is handled. Duration 126 ms by bot id=8106811972
+2025-11-18 12:01:11,648 - INFO - aiogram.event - Update id=282307665 is handled. Duration 145 ms by bot id=8106811972
+2025-11-18 12:01:15,831 - INFO - aiogram.event - Update id=282307667 is handled. Duration 115 ms by bot id=8106811972
+2025-11-18 12:01:15,844 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/vip/buy_vip.py", line 34, in buy_vip_panel_command
+    await callback_query.message.edit_text("🔔 Выберите подписку:",
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:01:15,846 - INFO - root - Администраторы получены!
+2025-11-18 12:01:15,847 - INFO - aiogram.event - Update id=282307666 is handled. Duration 131 ms by bot id=8106811972
+2025-11-18 12:01:18,626 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:01:18,627 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:01:20,146 - INFO - aiogram.event - Update id=282307668 is handled. Duration 1533 ms by bot id=8106811972
+2025-11-18 12:01:20,163 - INFO - aiogram.event - Update id=282307669 is handled. Duration 1551 ms by bot id=8106811972
+2025-11-18 12:04:08,686 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:04:08,686 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:04:09,573 - INFO - root - ✅ Создана новая подписка: 25745e9c-1269-48ed-96fd-d4fc1792dcc4
+2025-11-18 12:04:09,579 - INFO - root - ✅ Создана новая подписка: 62f4441d-85d2-4acd-a3b6-946404eb1309
+2025-11-18 12:04:09,773 - INFO - aiogram.event - Update id=282307670 is handled. Duration 1101 ms by bot id=8106811972
+2025-11-18 12:04:09,928 - INFO - aiogram.event - Update id=282307671 is handled. Duration 1256 ms by bot id=8106811972
+2025-11-18 12:04:20,327 - INFO - root - Администраторы получены!
+2025-11-18 12:04:20,327 - INFO - root - Администраторы получены!
+2025-11-18 12:04:20,334 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:04:20,335 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:04:20,465 - INFO - aiogram.event - Update id=282307673 is handled. Duration 147 ms by bot id=8106811972
+2025-11-18 12:04:20,484 - INFO - aiogram.event - Update id=282307672 is handled. Duration 166 ms by bot id=8106811972
+2025-11-18 12:04:22,155 - INFO - aiogram.event - Update id=282307674 is handled. Duration 246 ms by bot id=8106811972
+2025-11-18 12:04:22,165 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/referral/referral_system.py", line 41, in referral_system_info
+    await callback.message.edit_text(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:04:22,168 - INFO - root - Администраторы получены!
+2025-11-18 12:04:22,169 - INFO - aiogram.event - Update id=282307675 is handled. Duration 259 ms by bot id=8106811972
+2025-11-18 12:04:26,859 - INFO - root - Администраторы получены!
+2025-11-18 12:04:26,865 - INFO - root - Пользователь успешно добавлен: <User(id=9cff1840-4175-491b-bc45-18ac44342fb1, telegram_id=6767929742, username=None, is_admin=False)>
+2025-11-18 12:04:26,866 - INFO - root - ✅ Пользователь 6767929742 успешно зарегистрирован.
+2025-11-18 12:04:26,940 - INFO - root - Администраторы получены!
+2025-11-18 12:04:26,944 - INFO - root - Пользователь с telegram_id=6767929742 уже существует.
+2025-11-18 12:04:26,945 - INFO - root - 👤 Пользователь 6767929742 уже существует.
+2025-11-18 12:04:26,999 - INFO - aiogram.event - Update id=282307676 is handled. Duration 144 ms by bot id=8106811972
+2025-11-18 12:04:27,070 - INFO - aiogram.event - Update id=282307677 is handled. Duration 138 ms by bot id=8106811972
+2025-11-18 12:04:29,422 - INFO - aiogram.event - Update id=282307679 is handled. Duration 241 ms by bot id=8106811972
+2025-11-18 12:04:29,430 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/referral/referral_system.py", line 41, in referral_system_info
+    await callback.message.edit_text(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:04:29,431 - INFO - root - Администраторы получены!
+2025-11-18 12:04:29,432 - INFO - aiogram.event - Update id=282307678 is handled. Duration 252 ms by bot id=8106811972
+2025-11-18 12:05:05,737 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:05:05,737 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:05:05,870 - INFO - aiogram.event - Update id=282307681 is handled. Duration 147 ms by bot id=8106811972
+2025-11-18 12:05:06,006 - INFO - aiogram.event - Update id=282307680 is handled. Duration 284 ms by bot id=8106811972
+2025-11-18 12:05:07,697 - INFO - aiogram.event - Update id=282307683 is handled. Duration 171 ms by bot id=8106811972
+2025-11-18 12:05:07,725 - INFO - aiogram.event - Update id=282307682 is handled. Duration 201 ms by bot id=8106811972
+2025-11-18 12:05:09,845 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/cooperation/cooperation.py", line 43, in cancel_cooperation_request
+    await callback.message.edit_text("❌ Заявка на сотрудничество была отменена.")
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:05:09,847 - INFO - root - Администраторы получены!
+2025-11-18 12:05:09,848 - INFO - aiogram.event - Update id=282307685 is handled. Duration 221 ms by bot id=8106811972
+2025-11-18 12:05:09,970 - INFO - aiogram.event - Update id=282307684 is handled. Duration 344 ms by bot id=8106811972
+2025-11-18 12:05:16,358 - INFO - root - Администраторы получены!
+2025-11-18 12:05:16,358 - INFO - root - Администраторы получены!
+2025-11-18 12:05:16,365 - INFO - root - Пользователь с telegram_id=6767929742 уже существует.
+2025-11-18 12:05:16,365 - INFO - root - Пользователь с telegram_id=6767929742 уже существует.
+2025-11-18 12:05:16,366 - INFO - root - 👤 Пользователь 6767929742 уже существует.
+2025-11-18 12:05:16,366 - INFO - root - 👤 Пользователь 6767929742 уже существует.
+2025-11-18 12:05:16,510 - INFO - aiogram.event - Update id=282307687 is handled. Duration 157 ms by bot id=8106811972
+2025-11-18 12:05:16,534 - INFO - aiogram.event - Update id=282307686 is handled. Duration 181 ms by bot id=8106811972
+2025-11-18 12:05:27,546 - INFO - aiogram.event - Update id=282307688 is not handled. Duration 6 ms by bot id=8106811972
+2025-11-18 12:05:27,546 - INFO - aiogram.event - Update id=282307689 is not handled. Duration 5 ms by bot id=8106811972
+2025-11-18 12:05:30,410 - INFO - aiogram.event - Update id=282307690 is not handled. Duration 5 ms by bot id=8106811972
+2025-11-18 12:05:30,410 - INFO - aiogram.event - Update id=282307691 is not handled. Duration 5 ms by bot id=8106811972
+2025-11-18 12:06:07,562 - INFO - aiogram.event - Update id=282307692 is not handled. Duration 7 ms by bot id=8106811972
+2025-11-18 12:06:07,562 - INFO - aiogram.event - Update id=282307693 is not handled. Duration 7 ms by bot id=8106811972
+2025-11-18 12:06:10,450 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:10,450 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:10,573 - INFO - aiogram.event - Update id=282307694 is handled. Duration 139 ms by bot id=8106811972
+2025-11-18 12:06:10,715 - INFO - aiogram.event - Update id=282307695 is handled. Duration 280 ms by bot id=8106811972
+2025-11-18 12:06:12,614 - INFO - aiogram.event - Update id=282307696 is handled. Duration 108 ms by bot id=8106811972
+2025-11-18 12:06:12,617 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/vip/buy_vip.py", line 34, in buy_vip_panel_command
+    await callback_query.message.edit_text("🔔 Выберите подписку:",
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:06:12,619 - INFO - root - Администраторы получены!
+2025-11-18 12:06:12,620 - INFO - aiogram.event - Update id=282307697 is handled. Duration 113 ms by bot id=8106811972
+2025-11-18 12:06:16,097 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:16,097 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:17,561 - INFO - aiogram.event - Update id=282307699 is handled. Duration 1478 ms by bot id=8106811972
+2025-11-18 12:06:17,570 - INFO - aiogram.event - Update id=282307698 is handled. Duration 1489 ms by bot id=8106811972
+2025-11-18 12:06:19,462 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:19,462 - INFO - root - Пользователь с telegram_id=6767929742 найден.
+2025-11-18 12:06:20,419 - INFO - aiogram.event - Update id=282307700 is handled. Duration 968 ms by bot id=8106811972
+2025-11-18 12:06:20,421 - INFO - aiogram.event - Update id=282307701 is handled. Duration 970 ms by bot id=8106811972
+2025-11-18 12:06:31,930 - INFO - root - Администраторы получены!
+2025-11-18 12:06:31,931 - INFO - root - Администраторы получены!
+2025-11-18 12:06:31,943 - INFO - root - Пользователь успешно добавлен: <User(id=0f147e5f-ba89-4224-9ce4-9a403ded3009, telegram_id=7432808347, username=White_Hat0000, is_admin=False)>
+2025-11-18 12:06:31,944 - INFO - root - ✅ Пользователь 7432808347 успешно зарегистрирован.
+2025-11-18 12:06:31,946 - ERROR - root - IntegrityError при добавлении пользователя: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (id, telegram_id, username, firstname, lastname, registration_date, is_admin, referred_by_id, has_purchased) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('ad206aff-cbbc-4ffe-badd-a7fbc3890195', 7432808347, 'White_Hat0000', 'White', 'Hat', '2025-11-18 12:06:31.938957', 0, '2dabc6b1-941b-4f43-8c79-80877901dee3', 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 180, in execute
+    self._adapt_connection._handle_exception(error)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 340, in _handle_exception
+    raise error
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 162, in execute
+    self.await_(_cursor.execute(operation, parameters))
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 105, in run
+    result = function()
+             ^^^^^^^^^^
+sqlite3.IntegrityError: UNIQUE constraint failed: users.telegram_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/database/crud.py", line 113, in add_user
+    await session.flush()
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/ext/asyncio/session.py", line 787, in flush
+    await greenlet_spawn(self.sync_session.flush, objects=objects)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 203, in greenlet_spawn
+    result = context.switch(value)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 4331, in flush
+    self._flush(objects)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 4466, in _flush
+    with util.safe_reraise():
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/langhelpers.py", line 224, in __exit__
+    raise exc_value.with_traceback(exc_tb)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/session.py", line 4427, in _flush
+    flush_context.execute()
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/unitofwork.py", line 466, in execute
+    rec.execute(self)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/unitofwork.py", line 642, in execute
+    util.preloaded.orm_persistence.save_obj(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/persistence.py", line 93, in save_obj
+    _emit_insert_statements(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/orm/persistence.py", line 1233, in _emit_insert_statements
+    result = connection.execute(
+             ^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1419, in execute
+    return meth(
+           ^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/sql/elements.py", line 526, in _execute_on_connection
+    return connection._execute_clauseelement(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1641, in _execute_clauseelement
+    ret = self._execute_context(
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1846, in _execute_context
+    return self._exec_single_context(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1986, in _exec_single_context
+    self._handle_dbapi_exception(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 2355, in _handle_dbapi_exception
+    raise sqlalchemy_exception.with_traceback(exc_info[2]) from e
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 1967, in _exec_single_context
+    self.dialect.do_execute(
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/engine/default.py", line 951, in do_execute
+    cursor.execute(statement, parameters)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 180, in execute
+    self._adapt_connection._handle_exception(error)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 340, in _handle_exception
+    raise error
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/dialects/sqlite/aiosqlite.py", line 162, in execute
+    self.await_(_cursor.execute(operation, parameters))
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 132, in await_only
+    return current.parent.switch(awaitable)  # type: ignore[no-any-return,attr-defined] # noqa: E501
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/sqlalchemy/util/_concurrency_py3k.py", line 196, in greenlet_spawn
+    value = await result
+            ^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 40, in execute
+    await self._execute(self._cursor.execute, sql, parameters)
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/cursor.py", line 32, in _execute
+    return await self._conn._execute(fn, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 122, in _execute
+    return await future
+           ^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiosqlite/core.py", line 105, in run
+    result = function()
+             ^^^^^^^^^^
+sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed: users.telegram_id
+[SQL: INSERT INTO users (id, telegram_id, username, firstname, lastname, registration_date, is_admin, referred_by_id, has_purchased) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('ad206aff-cbbc-4ffe-badd-a7fbc3890195', 7432808347, 'White_Hat0000', 'White', 'Hat', '2025-11-18 12:06:31.938957', 0, '2dabc6b1-941b-4f43-8c79-80877901dee3', 0)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-18 12:06:31,958 - INFO - root - 👤 Пользователь 7432808347 уже существует.
+2025-11-18 12:06:32,066 - INFO - aiogram.event - Update id=282307703 is handled. Duration 143 ms by bot id=8106811972
+2025-11-18 12:06:32,099 - INFO - aiogram.event - Update id=282307702 is handled. Duration 178 ms by bot id=8106811972
+2025-11-18 12:06:47,587 - INFO - aiogram.event - Update id=282307704 is handled. Duration 107 ms by bot id=8106811972
+2025-11-18 12:06:47,762 - INFO - aiogram.event - Update id=282307705 is handled. Duration 281 ms by bot id=8106811972
+2025-11-18 12:06:49,546 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:06:49,546 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:06:49,662 - INFO - aiogram.event - Update id=282307706 is handled. Duration 127 ms by bot id=8106811972
+2025-11-18 12:06:49,686 - INFO - aiogram.event - Update id=282307707 is handled. Duration 150 ms by bot id=8106811972
+2025-11-18 12:06:51,924 - INFO - aiogram.event - Update id=282307708 is not handled. Duration 5 ms by bot id=8106811972
+2025-11-18 12:06:51,924 - INFO - aiogram.event - Update id=282307709 is not handled. Duration 5 ms by bot id=8106811972
+2025-11-18 12:07:57,886 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:07:57,886 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:07:58,003 - INFO - aiogram.event - Update id=282307711 is handled. Duration 131 ms by bot id=8106811972
+2025-11-18 12:07:58,155 - INFO - aiogram.event - Update id=282307710 is handled. Duration 284 ms by bot id=8106811972
+2025-11-18 12:07:58,533 - INFO - root - Администраторы получены!
+2025-11-18 12:07:58,533 - INFO - root - Администраторы получены!
+2025-11-18 12:07:58,538 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:07:58,539 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:07:58,658 - INFO - aiogram.event - Update id=282307712 is handled. Duration 132 ms by bot id=8106811972
+2025-11-18 12:07:58,681 - INFO - aiogram.event - Update id=282307713 is handled. Duration 155 ms by bot id=8106811972
+2025-11-18 12:08:01,125 - INFO - aiogram.event - Update id=282307714 is handled. Duration 188 ms by bot id=8106811972
+2025-11-18 12:08:01,141 - ERROR - root - Ошибка при обработке события: Traceback (most recent call last):
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/middlewares/logging.py", line 28, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/tg_bot/handlers/vip/buy_vip.py", line 34, in buy_vip_panel_command
+    await callback_query.message.edit_text("🔔 Выберите подписку:",
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/bot.py", line 485, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/mansur/Desktop/spot_arb_p2p_project_bot/.venv/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+
+2025-11-18 12:08:01,143 - INFO - root - Администраторы получены!
+2025-11-18 12:08:01,144 - INFO - aiogram.event - Update id=282307715 is handled. Duration 206 ms by bot id=8106811972
+2025-11-18 12:08:09,963 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:08:09,963 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:08:11,232 - INFO - aiogram.event - Update id=282307717 is handled. Duration 1284 ms by bot id=8106811972
+2025-11-18 12:08:11,233 - INFO - aiogram.event - Update id=282307716 is handled. Duration 1285 ms by bot id=8106811972
+2025-11-18 12:08:53,784 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:08:53,784 - INFO - root - Пользователь с telegram_id=7432808347 найден.
+2025-11-18 12:08:54,679 - INFO - root - ✅ Создана новая подписка: 73015429-5a21-4452-9532-7b3229e4efb3
+2025-11-18 12:08:54,693 - INFO - root - ✅ Создана новая подписка: 5666db21-9baf-4e06-8c9c-5d1c6bc970e6
+2025-11-18 12:08:54,875 - INFO - aiogram.event - Update id=282307719 is handled. Duration 1103 ms by bot id=8106811972
+2025-11-18 12:08:55,061 - INFO - aiogram.event - Update id=282307718 is handled. Duration 1291 ms by bot id=8106811972
+2025-11-18 12:09:08,080 - INFO - root - Администраторы получены!
+2025-11-18 12:09:08,080 - INFO - root - Администраторы получены!
+2025-11-18 12:09:08,082 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:09:08,082 - INFO - root - Пользователь с telegram_id=6155920970 найден.
+2025-11-18 12:09:08,205 - INFO - aiogram.event - Update id=282307720 is handled. Duration 126 ms by bot id=8106811972
+2025-11-18 12:09:08,228 - INFO - aiogram.event - Update id=282307721 is handled. Duration 150 ms by bot id=8106811972
